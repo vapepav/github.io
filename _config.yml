@@ -1,0 +1,45 @@
+# Site settings
+title: VAPEPAV
+email: info@vapepav.com
+url: http://vapepav.com/
+description: "Authentic and Original High-End Vaporizer Manufacturer. 110% Made in Indonesia."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 909090
+  secondary: 505050
+  secondary-dark: 303030
+
+# Footer settings
+footer:
+  copyright: VAPEPAV
+  location: Buy (ID)
+  social: Follow Us
+  credits: Buy (INT)
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://facebook.com/vapepav
+  - title: twitter
+    url: https://twitter.com/vapepav
+  - title: instagram
+    url: https://instagram.com/vapepav
+  - title: google-plus
+    url: https://plus.google.com/109661327954012342786
+  - title: youtube
+    url: https://www.youtube.com/channel/UCyyIrhDXyxoMERAnSE_jIdA
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: <a href="http://tokopedia.com">TokoPedia</a>
+  - line: <a href="http://kaskus.co.id">Kaskus</a>
+
+# Credits content
+credits: 
+  - line: <a href="http://ebay.com">EBay</a>
+  - line: <a href="http://amazon.com">Amazon</a>
+
+# Build settings
+markdown: kramdown
+permalink: pretty
